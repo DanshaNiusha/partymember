@@ -5,4 +5,5 @@ package domain;
  * @version 1.0
  */
 public class Organization {
+    //lxk测试
 }
